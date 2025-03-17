@@ -1,0 +1,14 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+
+# User-specific files
+.vs/
+.idea/
+.vscode/
+
+# Build results
+Build/
+Builds/
